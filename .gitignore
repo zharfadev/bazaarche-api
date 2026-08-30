@@ -41,4 +41,3 @@ ehthumbs.db
 # Database / Docker / Cache (local overrides only)
 .docker/
 *.log
-docker-compose.yml
